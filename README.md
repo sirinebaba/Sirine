@@ -7,11 +7,3 @@ Graduating with a degree in Computer Science at the American University of Beiru
 During the past 5 to 6 years, I got the oppurtunity to work in three different countries Lebanon, Dubai and Irvine and create different web and report projects for three different companies, hospital, retail and univeristy and using different modern and old technologies.
 
 When I'm not coding I play tennis, practice Ice Skating, go rock climbing and I'm currently trying to achieve my life goal of travelling the world!
-
-# Skills
-
-<img src="Skills/Skill1.png" alt="Lights" style="width:100%;max-width:100px"> 
-<img src="Skills/Skill2.png" alt="Lights" style="width:100%;max-width:100px"> 
-<img src="Skills/Skill3.png" alt="Lights" style="width:100%;max-width:400px"> 
-<img src="Skills/Skill4.png" alt="Lights" style="width:100%;max-width:400px"> 
-<img src="Skills/Skill5.png" alt="Lights" style="width:100%;max-width:400px"> 

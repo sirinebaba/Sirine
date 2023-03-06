@@ -10,8 +10,8 @@ When I'm not coding I play tennis, practice Ice Skating, go rock climbing and I'
 
 # Skills
 
-<img src="Skills/Skill1.png" alt="Lights" style="width:100%;max-width:400px"> 
-<img src="Skills/Skill2.png" alt="Lights" style="width:100%;max-width:400px"> 
+<img src="Skills/Skill1.png" alt="Lights" style="width:100%;max-width:100px"> 
+<img src="Skills/Skill2.png" alt="Lights" style="width:100%;max-width:100px"> 
 <img src="Skills/Skill3.png" alt="Lights" style="width:100%;max-width:400px"> 
 <img src="Skills/Skill4.png" alt="Lights" style="width:100%;max-width:400px"> 
 <img src="Skills/Skill5.png" alt="Lights" style="width:100%;max-width:400px"> 

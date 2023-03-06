@@ -8,6 +8,6 @@ During the past 5 to 6 years, I got the oppurtunity to work in three different c
 
 When I'm not coding I play tennis, practice Ice Skating, go rock climbing and I'm currently trying to achieve my life goal of travelling the world!
 
-#Skills
+# Skills
 
 <img src="Skills/Skills.png" alt="Lights"> 
